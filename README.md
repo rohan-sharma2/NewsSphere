@@ -1,2 +1,6 @@
-# NewsSphere
-A news website leverages the power of the GNews API to deliver the latest updates in a lucid and user-friendly manner.
+# Created a user-friendly news application website using the GNews API
+• Integrated GNews API to fetch and display news headlines, representative images, and titles, enhancing user
+engagement and access to up-to-date information
+• Included a user-friendly search feature, enabling visitors to explore news articles on various topics with ease,
+enhancing the overall user experience
+<a href="https://rohan-sharma2.github.io/NewsSphere/">Visit News Application</a>
